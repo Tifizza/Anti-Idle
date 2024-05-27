@@ -1,7 +1,7 @@
 import win32api
 import time
 import pyautogui as pg
-IDLE_TIME = 5
+IDLE_TIME = 120
 
 
 def get_idle_time():
